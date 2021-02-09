@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"> ultimate </string>
+    <string name="billing_connection_failure">Failure</string>
+</resources>
