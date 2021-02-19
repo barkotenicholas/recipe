@@ -60,25 +60,24 @@ public class MainActivity2 extends AppCompatActivity {
     }
 
     private void loadBeef() {
-        menuList.add(new Barbeque_Menu(R.drawable.triropes,"Tricpes ropes pushing","Tricpes work out",100));
-        menuList.add(new Barbeque_Menu(R.drawable.barbellbench,"Bench press","Triceps work out",150));
+        menuList.add(new Barbeque_Menu(R.drawable.beef2,"beef"," best beef recipe",100));
+        menuList.add(new Barbeque_Menu(R.drawable.beef3,"carnola beef","grilled beef recipe",150));
 
     }
 
     private void loadItalian() {
-        menuList.add(new Barbeque_Menu(R.drawable.swimming,"Swimming","Swimming styles",200));
+        menuList.add(new Barbeque_Menu(R.drawable.pas2,"Pasta","best pasta recipes",200));
 
     }
 
     private void loadWine() {
 
-        menuList.add(new Barbeque_Menu(R.drawable.pw,"Power waking","Lehs excersire",52));
-        menuList.add(new Barbeque_Menu(R.drawable.legextensions,"Leg extensions","Leg excersie",150));
+        menuList.add(new Barbeque_Menu(R.drawable.wine1,"rosemary wine","rose mary",150));
     }
 
     private void loadBarbeque() {
 
-        menuList.add(new Barbeque_Menu(R.drawable.legs,"Legs Workout","Legs work out plan",100));
+        menuList.add(new Barbeque_Menu(R.drawable.baa3,"cheese Barbrque"," barbeque cheese recipe",52));
 
     }
 }

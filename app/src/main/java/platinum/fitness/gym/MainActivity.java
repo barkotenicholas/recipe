@@ -33,10 +33,10 @@ public class MainActivity extends AppCompatActivity {
 
     private void loadData() {
 
-        mealList.add(new Meal("Legs",R.drawable.legs));
-        mealList.add(new Meal("Triceps",R.drawable.triceps));
-        mealList.add(new Meal("Abs",R.drawable.abs));
-        mealList.add(new Meal("Swimming",R.drawable.swim1));
+        mealList.add(new Meal("Meat",R.drawable.beef1));
+        mealList.add(new Meal("Wine",R.drawable.wine1));
+        mealList.add(new Meal("pasta",R.drawable.pas1));
+        mealList.add(new Meal("Barbeque",R.drawable.baa1));
 
     }
 
